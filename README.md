@@ -8,3 +8,11 @@ a passo do que estou fazendo, para que assim fique bem didático, até porque is
 fazendo
 
 Discord: Tony.#2481
+
+
+
+
+
+
+Commit dia 02/09 - teste comandos git via terminal
+git pull, push, clone
